@@ -1,5 +1,5 @@
 # geneningz_blog
-This is my personal blog project, built onspringboot + semanticUI + thymeleaf, easy to learn and study!
+This is my personal blog project, built on springboot + semanticUI + thymeleaf, easy to learn and study!
 
 ## Devolop Pipeline
 ![image](https://user-images.githubusercontent.com/37908189/192479103-c2220933-e48f-4938-a00b-f1a5c268a663.png)
