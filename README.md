@@ -93,3 +93,8 @@ It still needs long time to study and practice, which will help us to make great
 
 ## Code Statistic
 ![image](https://user-images.githubusercontent.com/37908189/192687903-dce9fbb2-1fa6-4a03-8c5f-348e96f1d7e7.png)
+
+
+
+![image](https://user-images.githubusercontent.com/37908189/192712715-3e7fbba3-003e-4260-b374-510c36fbbd65.png)
+
