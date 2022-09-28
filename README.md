@@ -91,3 +91,5 @@ It still needs long time to study and practice, which will help us to make great
 [commonmark-java](https://github.com/commonmark/commonmark-java)
 
 
+## Code Statistic
+![image](https://user-images.githubusercontent.com/37908189/192687903-dce9fbb2-1fa6-4a03-8c5f-348e96f1d7e7.png)
